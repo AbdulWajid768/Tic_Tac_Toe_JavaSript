@@ -1,0 +1,28 @@
+body{
+    color: darkslategrey;
+    background-color: aquamarine;
+ 
+}
+table,td{
+    background-color: black;
+    border-collapse: collapse;
+    align-self: center;
+    border-style: ridge;
+    border-color: blueviolet;
+
+
+}
+td{
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    height: 2cm;
+    width: 2cm;
+}
+
+button {
+    background-color: black;
+    font-weight: bold;
+    color: darkslategrey;
+    font-size: 20px;
+} 

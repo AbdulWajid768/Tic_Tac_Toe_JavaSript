@@ -1,0 +1,17 @@
+body{
+    color: darkslategrey;
+    background-color: aquamarine;
+}
+table,td{
+    background-color: springgreen;
+    border-collapse: collapse;
+    align-self: center;
+    border-style: ridge;
+    border-color: blueviolet;
+}
+td{
+    padding: 5px;
+    text-align: center;
+    height: 2cm;
+    width: 2cm;
+}
